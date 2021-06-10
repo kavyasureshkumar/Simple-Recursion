@@ -1,5 +1,3 @@
-package recursion;
-
 public class Palindrome {
 public static boolean IsPalindrome(String s) {
 	if(s.length() <= 1) {
