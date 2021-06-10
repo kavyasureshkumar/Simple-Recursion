@@ -1,5 +1,3 @@
-package recursion;
-
 public class Power {
 public static float power(int n, int p) {
 	if(p==0) {
